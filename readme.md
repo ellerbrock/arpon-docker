@@ -6,7 +6,7 @@
 
 _A Collection of Docker Containers for Security and Penetration Testing can be found [here](https://github.com/ellerbrock/docker-security-container)._
 
-[![Docker Automated Build](https://img.shields.io/docker/automated/frapsoft/arpon.svg)](https://hub.docker.com/r/frapsoft/arpon/) [![Docker Pulls](https://img.shields.io/docker/pulls/frapsoft/arpon.svg)](https://hub.docker.com/r/frapsoft/arpon/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+[![Docker Automated Build](https://img.shields.io/docker/automated/frapsoft/arpon.svg)](https://hub.docker.com/r/frapsoft/arpon/) [![Docker Repository on Quay](https://quay.io/repository/ellerbrock/arpon/status "Docker Repository on Quay")](https://quay.io/repository/ellerbrock/arpon) [![Docker Pulls](https://img.shields.io/docker/pulls/frapsoft/arpon.svg)](https://hub.docker.com/r/frapsoft/arpon/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
 - Docker Hub: [frapsoft/arpon](https://hub.docker.com/r/frapsoft/arpon/)
 - Repository: <https://github.com/ellerbrock/arpon-docker>
